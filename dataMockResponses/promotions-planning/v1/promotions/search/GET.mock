@@ -1,0 +1,5456 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "data": [
+        {
+            "versionKey": "105587966",
+            "promotion": {
+                "id": "cbd48b1e-be0c-4576-86fb-3c1b72d81024",
+                "description": "Promotion 444",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "2da6afbd-7411-4db9-9dac-3c5d92a83ead"
+            ]
+        },
+        {
+            "versionKey": "1097326509",
+            "promotion": {
+                "id": "a7098ef3-1606-4abc-8caf-0b156c8b0d3d",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "f75c5611-8660-455c-b03c-f78643729e4b"
+            ]
+        },
+        {
+            "versionKey": "793906986",
+            "promotion": {
+                "id": "2f869e6c-013a-4900-ba14-8c1d9e18477b",
+                "description": "Demo Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "f7dbb376-aa4c-4a40-80ce-61dde286b6d3"
+            ]
+        },
+        {
+            "versionKey": "1336659097",
+            "promotion": {
+                "id": "1972d2b6-f77d-4ea6-80b3-40cbfc1bddf5",
+                "description": "Promotion 1",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "87ab39ae-b5b3-422d-849c-199e15b6635f"
+            ]
+        },
+        {
+            "versionKey": "242310537",
+            "promotion": {
+                "id": "a6013290-8bb1-4508-a4b1-caa9bb989e55",
+                "description": "Promo-Data",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "5b3a6ebb-cc56-4fc2-9ca1-e2a0c9095fe3",
+                "6aca0d3d-afbe-4b92-a871-3408b8c2e0c9",
+                "96bd908a-dd6b-45f7-8456-a73aac98a0a2"
+            ]
+        },
+        {
+            "versionKey": "1451207150",
+            "promotion": {
+                "id": "65ceaaed-a20b-4b66-aada-a25f3a4fd90a",
+                "description": "rakesh new ready ",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "f9a976d2-f61c-43d3-be3c-577bd1b8b21f"
+            ]
+        },
+        {
+            "versionKey": "455939839",
+            "promotion": {
+                "id": "e2450c7c-af7c-46bf-807b-268f57a199ea",
+                "description": "Promotion 9786",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "bf73dd9a-da94-44bb-a903-ce0993698882"
+            ]
+        },
+        {
+            "versionKey": "1659433939",
+            "promotion": {
+                "id": "0fc0bac8-7b8c-40ae-8100-c82e64da8f43",
+                "description": "Promo Version 3",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "dad24f31-6144-4789-93e2-6d594599edb9"
+            ]
+        },
+        {
+            "versionKey": "1540275619",
+            "promotion": {
+                "id": "a815e73b-028c-48cf-912a-0e7964f3b13d",
+                "description": "Test123",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "aa921346-4ade-4d7c-ab9f-ee76dbb65d27"
+            ]
+        },
+        {
+            "versionKey": "1350445405",
+            "promotion": {
+                "id": "1f11370b-2fdc-4a0e-a1e5-16aa841f6969",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "32aaa8d1-36b0-4f9e-9260-3f214cd85c60"
+            ]
+        },
+        {
+            "versionKey": "210126640",
+            "promotion": {
+                "id": "5db41862-b9f6-4065-a027-eaac6b45be80",
+                "description": "Demo Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "63dfcc56-30db-4f40-907d-a4cdfb1adf41"
+            ]
+        },
+        {
+            "versionKey": "515551988",
+            "promotion": {
+                "id": "d8a0a723-1019-4089-b0cf-6d6f12ebc3ec",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1a6f9003-4100-4322-8611-3f587941c29f"
+            ]
+        },
+        {
+            "versionKey": "1278062182",
+            "promotion": {
+                "id": "384c6666-7d36-4f5d-8fa5-baaf73b30930",
+                "description": "rakesh newwiiww00",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "87a58a46-20ca-4918-a54a-3800b68a5358"
+            ]
+        },
+        {
+            "versionKey": "1715154155",
+            "promotion": {
+                "id": "f30e4aa9-d750-430d-a6fd-4f37805c1555",
+                "description": "Test_RK_0201_Modified",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "b2ee56df-fd12-4f13-8691-a68f8562519f"
+            ]
+        },
+        {
+            "versionKey": "225968183",
+            "promotion": {
+                "id": "d238c508-93c2-427a-a696-3cb84085e5b7",
+                "description": "rakeshMockUp123",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "15b33bf8-991f-4c56-88ce-7b56965e3281"
+            ]
+        },
+        {
+            "versionKey": "1536848982",
+            "promotion": {
+                "id": "4e005d78-d57b-4116-9900-59bc2fc1e210",
+                "description": "Atlanta Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "cd23e806-4dbf-49cd-83d3-8c5b823c091a"
+            ]
+        },
+        {
+            "versionKey": "819082267",
+            "promotion": {
+                "id": "6137619d-62f3-4350-95f1-92832cbc85a9",
+                "description": "rakesh new ready can",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "2a8b890a-4cac-4fc3-957e-e0941c1447d3"
+            ]
+        },
+        {
+            "versionKey": "1671535172",
+            "promotion": {
+                "id": "cde826b7-cff3-424a-bbe5-3803adf154aa",
+                "description": "Promotion Dev 1234",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "c85497a1-d2e6-4857-88ab-a7e0e3040417"
+            ]
+        },
+        {
+            "versionKey": "928695595",
+            "promotion": {
+                "id": "16a877ae-fb43-450a-90e2-141880ddc1df",
+                "description": "Biggest Grocery Sale Live",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "3f63545d-d6e3-450b-81b1-5cb4750fdc53"
+            ]
+        },
+        {
+            "versionKey": "1057926051",
+            "promotion": {
+                "id": "1d0189df-cd66-49da-9fcc-73a3e8af4298",
+                "description": "desp promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "de388d67-d3c7-41a1-aa02-f5784368dd3d"
+            ]
+        },
+        {
+            "versionKey": "344086007",
+            "promotion": {
+                "id": "abf31162-281a-470c-9c93-9307a1935349",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "b39052a5-4bc7-40c1-a63c-fe01404c915f"
+            ]
+        },
+        {
+            "versionKey": "2000374287",
+            "promotion": {
+                "id": "651d7915-c5b5-4177-8c77-e93dc2627320",
+                "description": "Promotion Revi",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            }
+        },
+        {
+            "versionKey": "695302618",
+            "promotion": {
+                "id": "4d2e4c6c-b09b-4599-a6ca-9519d0136e6b",
+                "description": "rakesh new ready can",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "d44a76c9-7f97-470c-8199-e0fec448fcdd"
+            ]
+        },
+        {
+            "versionKey": "94347619",
+            "promotion": {
+                "id": "761b2c63-ba04-42ab-a676-216bf5bc15e4",
+                "description": "rakesh newwiiww00",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "964c9f49-b081-4a9c-9b13-e1feb33f5f6b"
+            ]
+        },
+        {
+            "versionKey": "1359779046",
+            "promotion": {
+                "id": "7e511b6c-8f9f-4e97-bc46-aa50ccf0ac42",
+                "description": "Promo PDSs",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "adc727c3-46ce-4c48-aa0c-3ad84fdaef03"
+            ]
+        },
+        {
+            "versionKey": "904049603",
+            "promotion": {
+                "id": "bbd22c09-5a61-3b1a-471b-0fa39ae28c7e",
+                "description": "string",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "314210a3-6494-471b-8304-05fd040ed3ff"
+            ]
+        },
+        {
+            "versionKey": "1288786351",
+            "promotion": {
+                "id": "a5cc3bc1-9999-41cc-97a6-7b8d456d9659",
+                "description": "Billion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "f66b9aba-777c-4740-afca-c592cdf48c8e"
+            ]
+        },
+        {
+            "versionKey": "1122397718",
+            "promotion": {
+                "id": "a2560614-b022-4ebd-8ffb-7a3fe7656f51",
+                "description": "rakesh444",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1e1c956b-b69f-4a2a-b764-ef1e2998bae1"
+            ]
+        },
+        {
+            "versionKey": "596634912",
+            "promotion": {
+                "id": "534f6d3b-9be7-44f7-b4e9-0eac831cc6d4",
+                "description": "SampleTestRakesh123",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "2a46523a-5e2c-42c2-b559-3a9e266fc9f1",
+                "b87cb8ea-4eb2-48e7-b657-15fdb13cafa4"
+            ]
+        },
+        {
+            "versionKey": "1011585652",
+            "promotion": {
+                "id": "b9f73ceb-43f6-4a3a-82f8-5ae5fa86fcf7",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "f6198f35-0b9c-4981-a965-2e579890e3a0"
+            ]
+        },
+        {
+            "versionKey": "989470555",
+            "promotion": {
+                "id": "bf9a2a2c-d8f7-4414-b2c8-2faba5f91319",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "b57caa66-0c50-45bc-9546-d746a532dd2e"
+            ]
+        },
+        {
+            "versionKey": "1605828343",
+            "promotion": {
+                "id": "199dec28-fcf3-42ac-94e6-3727209d0f38",
+                "description": "Demo Promotion 1",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "cf8ea2f1-7ea7-44c4-940f-a04a4d847a55",
+                "97689cc0-975c-455c-8bda-1943da710aab"
+            ]
+        },
+        {
+            "versionKey": "795415693",
+            "promotion": {
+                "id": "9d9f78ef-8e58-4741-bdd7-32ce0b569a4a",
+                "description": "rakesh new ready can",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "2299786e-f3ae-4297-a8aa-b7c43dd05c90"
+            ]
+        },
+        {
+            "versionKey": "1612489490",
+            "promotion": {
+                "id": "52defcee-e804-4434-8ef3-951a1f796bc7",
+                "description": "Demo Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "607c5789-d6a6-4b50-925c-a9fc8c8c5c2d"
+            ]
+        },
+        {
+            "versionKey": "1908480042",
+            "promotion": {
+                "id": "720ca043-497a-4c4f-a8d8-c105e8258426",
+                "description": "easyyy promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "052857d4-89fa-48f4-ab52-2164090c5b3a"
+            ]
+        },
+        {
+            "versionKey": "395527225",
+            "promotion": {
+                "id": "7685b9d6-fedd-4588-8fee-905c95c606d1",
+                "description": "rakesh new ready ",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "ad778004-718c-4866-bb89-45526211f76e"
+            ]
+        },
+        {
+            "versionKey": "58118014",
+            "promotion": {
+                "id": "1f3aa238-87d2-4467-8e32-1997b16e45b7",
+                "description": "Biggest Grocery Sale Live",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "e1cac774-6f44-42d9-bbc9-d96be1fe5914",
+                "c0954a65-91cf-4c0a-9ebb-dd57fea77e2f"
+            ]
+        },
+        {
+            "versionKey": "147277941",
+            "promotion": {
+                "id": "3b705782-e8aa-41b0-8158-ec67afe423a6",
+                "description": "rakesh444",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "c6f48e6a-82d9-4b9c-bae6-b53ca06753c4"
+            ]
+        },
+        {
+            "versionKey": "615951765",
+            "promotion": {
+                "id": "2d91931b-cc8c-4b50-8551-9366bf7c94ed",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "30a8dfaa-bb01-426f-89e9-8271f832a03f"
+            ]
+        },
+        {
+            "versionKey": "546281178",
+            "promotion": {
+                "id": "6e17ed3a-e998-4744-930f-7feb314fe1c1",
+                "description": "Demo Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "5a2eae80-86d1-4825-8d43-dd827568c2ef"
+            ]
+        },
+        {
+            "versionKey": "135275199",
+            "promotion": {
+                "id": "001faff6-6ea4-47ce-80cf-6fe3ed2423cb",
+                "description": "star wars",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "3e8a8e3c-7df3-476a-8f19-6a4b698b324e",
+                "2abb29f6-c4ad-47cb-8117-a48ede715b33"
+            ]
+        },
+        {
+            "versionKey": "418797776",
+            "promotion": {
+                "id": "02e7fb3e-1598-4ca0-b4ff-59a43862a67d",
+                "description": "rakesh new ready can",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "cf3d7640-6a07-4b25-bdef-f48218266f41"
+            ]
+        },
+        {
+            "versionKey": "1899328301",
+            "promotion": {
+                "id": "a8a2f4f5-4046-4b48-9f0b-ebe970c83344",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "5329027f-4aff-483e-a81c-cc21b3f21591"
+            ]
+        },
+        {
+            "versionKey": "822991708",
+            "promotion": {
+                "id": "d5330309-ab88-4b79-a969-4333a532d9c6",
+                "description": "desp promo11",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1a4440e6-802d-4745-84a4-5ba070858338"
+            ]
+        },
+        {
+            "versionKey": "583870366",
+            "promotion": {
+                "id": "557ee839-fa80-45a4-bf0a-f4bfb8d2ad36",
+                "description": "Biggest Grocery Sale Live",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W50-D7",
+                        "end": "Y2023-Q4-P13-W51-D1"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "09e4440e-e1f1-4648-9133-edc8342c3afb",
+                "a04ee007-0ecb-43cd-bcf5-80297a6243b6",
+                "d5c2f68a-8734-46cb-9f97-51613a1f92f4"
+            ]
+        },
+        {
+            "versionKey": "1560756184",
+            "promotion": {
+                "id": "f70b07b9-c606-4903-85bc-c9b7d71c9e33",
+                "description": "rakesh newwww",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "64dd5e9b-1b59-4778-942d-31c64c647abe"
+            ]
+        },
+        {
+            "versionKey": "802491391",
+            "promotion": {
+                "id": "971509d8-94f4-4100-8629-3fe69809111c",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W05-D1",
+                        "end": "Y2023-Q1-P03-W10-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "72dd7c4f-ba8c-4799-8ef4-4ff1a03e3fee"
+            ]
+        },
+        {
+            "versionKey": "515143002",
+            "promotion": {
+                "id": "725fce98-1c1f-430f-8a78-bc9080432dea",
+                "description": " end ",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "dfff091f-b0ec-4c9b-a7fc-0959944d5df2"
+            ]
+        },
+        {
+            "versionKey": "775075204",
+            "promotion": {
+                "id": "e84b343a-3614-4db5-a740-e50e4962dd8c",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "9a88ecca-8c20-401f-8a5b-536f40bbc170"
+            ]
+        },
+        {
+            "versionKey": "2032417175",
+            "promotion": {
+                "id": "aacaa3fc-5686-4bfe-84bd-291f3fe06325",
+                "description": "rakesh444",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "84002a45-3a93-400e-9196-b96d3e15c1c5"
+            ]
+        },
+        {
+            "versionKey": "749985084",
+            "promotion": {
+                "id": "0ea3620b-e53f-4343-a475-049e3c56268f",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "9a98856c-8104-48a4-af57-34d373940c4a"
+            ]
+        },
+        {
+            "versionKey": "1739472136",
+            "promotion": {
+                "id": "573bc99b-40cd-4f1e-9429-b45413e5d573",
+                "description": "Biggest Grocery SALE",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "2ca7eeb0-a8ac-4cbb-ae8e-30ac9c201ce0",
+                "5dec0e8d-61a8-46fb-834a-842ce1da9fa9"
+            ]
+        },
+        {
+            "versionKey": "213797208",
+            "promotion": {
+                "id": "421edf08-7737-4732-8852-c0652d08f4d2",
+                "description": "New Promo 11",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "a9cacc27-f275-4192-a4e7-3f9bb8d6883a"
+            ]
+        },
+        {
+            "versionKey": "1487193973",
+            "promotion": {
+                "id": "5a24ddbc-0d92-4ca0-849c-4320365ba808",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "8ca3ed22-08c7-470f-950c-588e528e236f"
+            ]
+        },
+        {
+            "versionKey": "15207844",
+            "promotion": {
+                "id": "eb0e0859-0c04-4ba6-8fcd-114943ca5fd0",
+                "description": "rakesh123",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "5245eef9-8602-4fc0-a23b-903641b2f072",
+                "e3c0b6c0-67ce-4d65-88f8-a0744dfa8962",
+                "548b436f-2816-4db8-930c-55f297f048c9"
+            ]
+        },
+        {
+            "versionKey": "1869481231",
+            "promotion": {
+                "id": "f378fd15-187b-4ac1-b31d-5cf62870ef3b",
+                "description": "Year end sale",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "bfdc062e-b41d-4a27-b764-d5fb7057a278"
+            ]
+        },
+        {
+            "versionKey": "1256777690",
+            "promotion": {
+                "id": "527bb9ec-5a78-42c2-8e9a-2f09bbf5c9a6",
+                "description": "Biggest Grocery Sale LI",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "7eeda774-2c45-4e7f-87bf-678d3212f28d",
+                "973d79a6-3de3-4066-a160-008b0f1576f5",
+                "b9556df6-abbd-4254-a230-728790a0eaa1",
+                "51fae7e9-5bdf-43ab-9ea2-90dd2de88053"
+            ]
+        },
+        {
+            "versionKey": "523930816",
+            "promotion": {
+                "id": "c0b7b447-b38c-44d4-928d-771f6965426d",
+                "description": "SampleTestRakesh111",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "321d3fb6-12a6-4415-bfef-615d82c5d900"
+            ]
+        },
+        {
+            "versionKey": "2025353764",
+            "promotion": {
+                "id": "19e239c4-c576-4543-a256-079c8a885cda",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W05-D1",
+                        "end": "Y2023-Q1-P03-W10-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "8e843257-8fac-4278-bdb1-aa4b2b918fdc"
+            ]
+        },
+        {
+            "versionKey": "83285573",
+            "promotion": {
+                "id": "c016b3f7-b3c7-4f06-be3f-37bb63638cd1",
+                "description": "rakesh newwiiww",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "08c328ef-0740-41b8-80c1-01e475d80f5a"
+            ]
+        },
+        {
+            "versionKey": "1880347894",
+            "promotion": {
+                "id": "4ed3e264-013c-4b2e-bada-6e3fbbb1bd3f",
+                "description": "Atlanta Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "f79ea7fc-1012-4264-81df-351bd4ebc1e1"
+            ]
+        },
+        {
+            "versionKey": "1475692670",
+            "promotion": {
+                "id": "a28fb2ac-6acd-44d2-a713-dfad81fb8442",
+                "description": "Promo Demo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W01-D1",
+                        "end": "Y2023-Q1-P01-W01-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "61347187-0cc0-4d28-8a07-4d0dfcb658b7"
+            ]
+        },
+        {
+            "versionKey": "110842933",
+            "promotion": {
+                "id": "76c9861c-bd0c-4f0e-84ac-2703e1d6a9ae",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "58ba4a7f-08a7-44ad-8914-68d21d6da3dc"
+            ]
+        },
+        {
+            "versionKey": "1051101529",
+            "promotion": {
+                "id": "1cefdb73-4219-4c4b-bdb0-5c7c701bdda7",
+                "description": "rakesh new i ",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1990ded2-f9d8-497c-9b62-eea85dfbc35e"
+            ]
+        },
+        {
+            "versionKey": "298136817",
+            "promotion": {
+                "id": "f40af31f-98c6-4086-875d-6579de3f9f8e",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "a24f8ca3-21bf-406f-8b6d-927120e28db2"
+            ]
+        },
+        {
+            "versionKey": "1312919761",
+            "promotion": {
+                "id": "22f2a4d5-6e38-4925-8be5-c2fd0a1f8aec",
+                "description": "Promo Plan demo",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "89c97a88-7ff5-4645-be11-6f7f2b449019"
+            ]
+        },
+        {
+            "versionKey": "846234880",
+            "promotion": {
+                "id": "d1b7c2fc-cba4-4610-a23e-7a8dfe645f3f",
+                "description": "Test Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1912168d-6183-4933-921e-74e175c638e8"
+            ]
+        },
+        {
+            "versionKey": "2011549602",
+            "promotion": {
+                "id": "8b01ff51-13b7-41df-967d-c6061c3eff93",
+                "description": "Georgia Sale Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W16-D6",
+                        "end": "Y2023-Q1-P04-W16-D6"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "b7c040f3-0796-4448-bd19-f3b2665b0020"
+            ]
+        },
+        {
+            "versionKey": "1087133051",
+            "promotion": {
+                "id": "2be38fbe-b0cb-4ad3-bd7d-a6fa715514c0",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "ad0ac2b4-e76a-4f9e-801a-e66eec5bdf9e"
+            ]
+        },
+        {
+            "versionKey": "410081529",
+            "promotion": {
+                "id": "0253f068-48d2-4c96-ada5-0dc45583abc6",
+                "description": "Demo Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "ad9b68d6-6291-4c1e-9939-2592b3922051"
+            ]
+        },
+        {
+            "versionKey": "1646644284",
+            "promotion": {
+                "id": "1cac63eb-49fd-4628-b963-ed3cf6d97d5e",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W05-D1",
+                        "end": "Y2023-Q1-P03-W10-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "65c22825-5e84-4c2a-87e5-ca260be9022b"
+            ]
+        },
+        {
+            "versionKey": "757801789",
+            "promotion": {
+                "id": "ed144857-0edb-4771-b246-51e736e60d1d",
+                "description": "New Promo 11",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            }
+        },
+        {
+            "versionKey": "1114991544",
+            "promotion": {
+                "id": "e32c0ff9-42df-43eb-8864-9f1b3c057c1e",
+                "description": "Promo Version",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "72c723bc-426a-4a4d-a6f3-c79cd25311df"
+            ]
+        },
+        {
+            "versionKey": "1895330711",
+            "promotion": {
+                "id": "9f2d05ad-a147-43fa-a8d8-bcdbe92c630b",
+                "description": "Biggest Grocery Sale Live",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "339a02cd-52c5-4de2-a0d6-dc5ebb559e82"
+            ]
+        },
+        {
+            "versionKey": "1171197518",
+            "promotion": {
+                "id": "314a287e-a5b4-4b07-b4cd-0b35ea8b6b50",
+                "description": "Promo check version",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "badf7cb5-18d9-4557-9bee-60d17194f538"
+            ]
+        },
+        {
+            "versionKey": "439942018",
+            "promotion": {
+                "id": "db216323-fd02-4c1a-ad79-bc430e85cadf",
+                "description": "Atlanta Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "8ae4a2a1-5103-40ca-87f7-efbd4a80301b"
+            ]
+        },
+        {
+            "versionKey": "561109095",
+            "promotion": {
+                "id": "71891c40-ce2f-42de-9588-a92b50c1de34",
+                "description": "Star Tech",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "a8dbd1ff-44a5-4d13-8e06-1ca641728711"
+            ]
+        },
+        {
+            "versionKey": "2000711594",
+            "promotion": {
+                "id": "bc049c9b-0046-4a75-9cdf-b21417d19a68",
+                "description": "promo publish desp",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "17605f2f-8f52-43a1-b2fa-ffe28d20ec18"
+            ]
+        },
+        {
+            "versionKey": "2002652497",
+            "promotion": {
+                "id": "132c3ab9-8a55-4c31-a036-2ebf2f762456",
+                "description": "Dev Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "3d2743e3-0611-4be1-bf0e-4330b5f27782"
+            ]
+        },
+        {
+            "versionKey": "510264800",
+            "promotion": {
+                "id": "8171ac0c-c362-4bff-a173-550ed7b34a0d",
+                "description": "Promo Demo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "5e9872c0-0bfa-4e28-8557-5e24af5f3a21",
+                "c6bcbbc1-5383-4b87-a99f-96107f1e8e24"
+            ]
+        },
+        {
+            "versionKey": "260509164",
+            "promotion": {
+                "id": "3e425813-b592-439c-8df7-f24101aafb9f",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "7443b253-ce85-4202-baf8-545d9ada2126"
+            ]
+        },
+        {
+            "versionKey": "133891919",
+            "promotion": {
+                "id": "4005b323-5bc9-4633-9640-e60cd8ed6828",
+                "description": "Promotion Atlanta",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "53b0e547-5444-467c-b086-2a41aa1e6996"
+            ]
+        },
+        {
+            "versionKey": "1915402263",
+            "promotion": {
+                "id": "30ede3ce-9ad4-41fb-8daf-43b543566e6c",
+                "description": "Promo ver Key",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "fb6920e4-f28a-4c08-9979-cde05764e91c"
+            ]
+        },
+        {
+            "versionKey": "1738921217",
+            "promotion": {
+                "id": "2ee8f719-350a-4f2a-b3ba-c56daad8f3c2",
+                "description": "rakesh new promo ",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "fc531d01-ec9a-4430-bce6-f2be31ad1635"
+            ]
+        },
+        {
+            "versionKey": "1306307890",
+            "promotion": {
+                "id": "2c504d3f-43b7-4b14-8422-27fcb5a8637d",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "64a0e533-15f3-4f37-a86a-1ea3808f95c8"
+            ]
+        },
+        {
+            "versionKey": "1124978997",
+            "promotion": {
+                "id": "c25badc2-4537-4ffc-98f0-3e841c60e45c",
+                "description": "Test_RK_A0201",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W04-D1",
+                        "end": "Y2023-Q4-P13-W51-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "30a57540-8b2e-4511-9fd9-b6c5e024e647"
+            ]
+        },
+        {
+            "versionKey": "1278902083",
+            "promotion": {
+                "id": "718fee21-9e8c-486d-bd39-60d03a7f4013",
+                "description": "Demo promotions desp",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "f8ffc3ef-2549-4094-956a-a552996e4992"
+            ]
+        },
+        {
+            "versionKey": "170652933",
+            "promotion": {
+                "id": "c800e747-5fad-4504-ad97-aa0918257b5e",
+                "description": "New Promo 11",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            }
+        },
+        {
+            "versionKey": "325684645",
+            "promotion": {
+                "id": "de635a01-fbb7-471c-ae77-b3d2698e3991",
+                "description": "Atlanta Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1e6197bf-69d5-4dc0-9896-3589a3d27699"
+            ]
+        },
+        {
+            "versionKey": "1337503724",
+            "promotion": {
+                "id": "82b85909-6abd-4fd1-87ce-8fc572cd4330",
+                "description": "Promotion 1",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "f7100591-caa8-4be7-8a9e-8337d4be0f8f"
+            ]
+        },
+        {
+            "versionKey": "797179119",
+            "promotion": {
+                "id": "9b6b3515-752a-40d4-8bf5-607d8cc9122f",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W06-D1",
+                        "end": "Y2023-Q1-P03-W09-D1"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "0f98049f-f0a4-47ea-821f-636ee793e94c"
+            ]
+        },
+        {
+            "versionKey": "1497063640",
+            "promotion": {
+                "id": "13a8f5bd-86ef-4e8b-a500-db16571d4002",
+                "description": "rakesh newwiiww00",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "111d42ec-b7d0-43b1-8a5b-cee65e99b804"
+            ]
+        },
+        {
+            "versionKey": "82863817",
+            "promotion": {
+                "id": "9763a02f-6a43-4c15-b908-83527032b817",
+                "description": "New Promo 124",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            }
+        },
+        {
+            "versionKey": "1863116449",
+            "promotion": {
+                "id": "31c9df50-0d25-4dc1-bdd4-b2392d30c031",
+                "description": "rakesh new promo ",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "6276e677-2b07-4f70-b901-e5640c286a48"
+            ]
+        },
+        {
+            "versionKey": "1166005184",
+            "promotion": {
+                "id": "1a9f96dc-4ab4-44be-b39e-027827f8a876",
+                "description": "Demo promotions desp",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "4d5f7838-dbea-429b-9322-6956054946d9"
+            ]
+        },
+        {
+            "versionKey": "299445474",
+            "promotion": {
+                "id": "ad1b3a09-3f44-4394-ada0-110cafe35a2e",
+                "description": "Promo Version 2",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "17a2c487-873b-4488-89d8-283024e9c37a"
+            ]
+        },
+        {
+            "versionKey": "306323238",
+            "promotion": {
+                "id": "bef639bb-290e-406c-8e97-3e90c1a21670",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "1f755fb6-0803-47f9-9d9d-639387fc82c8"
+            ]
+        },
+        {
+            "versionKey": "1613243537",
+            "promotion": {
+                "id": "abaac324-b642-4a92-8d87-adccc49b1671",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W05-D1",
+                        "end": "Y2023-Q1-P03-W10-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "61932606-6aac-4533-a7b5-d1af8ca43348"
+            ]
+        },
+        {
+            "versionKey": "783132940",
+            "promotion": {
+                "id": "190942dc-51ec-4f94-bfd7-5442502f31ce",
+                "description": "Promo Dev check versions",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "9e828e0f-a9d5-4bfa-bb29-9a46fe2501a4"
+            ]
+        },
+        {
+            "versionKey": "138340638",
+            "promotion": {
+                "id": "c3958017-731e-4d82-b54b-77a0b2a21f8f",
+                "description": "Promotion 2",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "b2ef3583-f567-44fa-80b9-308603e9cc95"
+            ]
+        },
+        {
+            "versionKey": "191962973",
+            "promotion": {
+                "id": "d4c94d11-ec9b-440d-af5e-bfc7e69843ba",
+                "description": "string",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "402f9985-df03-4a2a-a42f-e9b19fdb4077"
+            ]
+        },
+        {
+            "versionKey": "1236646147",
+            "promotion": {
+                "id": "b54ce9fe-0c4d-412c-8599-b83795962da5",
+                "description": "Promotion Demo for New Endpoint of status",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P04-W13-D1",
+                        "end": "Y2023-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "ceac95a6-f1ab-40fd-9e8c-282248eb0f7d"
+            ]
+        },
+        {
+            "versionKey": "567705660",
+            "promotion": {
+                "id": "48c41ad6-be44-4b7a-83a6-6c56c06366ac",
+                "description": "Promotion Testing jj",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D2",
+                        "end": "Y2023-Q4-P13-W50-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "de1eb975-60d1-4e35-8f3f-7f9772de2b34"
+            ]
+        },
+        {
+            "versionKey": "2069572410",
+            "promotion": {
+                "id": "6a1d12f0-a0b4-4799-b3e2-95e5d9c8017f",
+                "description": "Tan tana tan Promo",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P02-W05-D1",
+                        "end": "Y2023-Q1-P03-W10-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "4997cb6b-215f-48fb-8573-cef988e61138"
+            ]
+        },
+        {
+            "versionKey": "1689603467",
+            "promotion": {
+                "id": "36fc73dd-211a-45d1-b435-9eab81254399",
+                "description": "Promo Version 3",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "a1c16bb0-d60a-44c4-b23f-a6be7e7743ea"
+            ]
+        },
+        {
+            "versionKey": "612241629",
+            "promotion": {
+                "id": "2531799a-d965-4514-ae0e-c6e44774fcb1",
+                "description": "rakesh new promo ",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "b9505da1-a539-4edf-a4a3-bdd8a19b092e"
+            ]
+        },
+        {
+            "versionKey": "1742703341",
+            "promotion": {
+                "id": "9ddd06a9-b470-4f93-b802-bbdd420f4528",
+                "description": "Atlanta Promotion",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q4-P13-W49-D1",
+                        "end": "Y2023-Q4-P13-W50-D5"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "e938c1c6-7839-4b90-9213-1c749fa191d6"
+            ]
+        },
+        {
+            "versionKey": "97911344",
+            "promotion": {
+                "id": "8cd34500-525e-4b1a-949b-eed765b26c48",
+                "description": "Promo VKey",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "d9780bfa-6574-46f5-9c95-060ced34262c",
+                "137a6f98-e2e4-4f89-bf70-403f70e2e628",
+                "1022aa3f-2e55-4853-bdf1-1d400260c348"
+            ]
+        },
+        {
+            "versionKey": "879943860",
+            "promotion": {
+                "id": "675686b4-9a9d-4ba3-bb79-3b3c0aecde5e",
+                "description": "string",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P01-W01-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "b1e24658-9661-41e7-81ac-0b35f57dd07b"
+            ]
+        },
+        {
+            "versionKey": "985559899",
+            "promotion": {
+                "id": "96c1ffd9-628d-4169-91ce-04762ded4417",
+                "description": "promo dev tst",
+                "performance": {
+                    "date": {
+                        "start": "Y2022-Q1-P04-W13-D1",
+                        "end": "Y2022-Q1-P04-W13-D7"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "63f33a67-3010-4914-8784-fa72d4e85733"
+            ]
+        },
+        {
+            "versionKey": "1508515192",
+            "promotion": {
+                "id": "9a67041b-e1cf-4e90-8211-1202f8336d87",
+                "description": "Star Tech 123",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "ROLLER"
+                }
+            },
+            "plans": [
+                "fe95b184-1391-482b-a2fb-de1febce0bf0"
+            ]
+        },
+        {
+            "versionKey": "1085547720",
+            "promotion": {
+                "id": "f0a192e4-962a-4119-a549-eb1328fe811a",
+                "description": "Demo Promotion 1",
+                "performance": {
+                    "date": {
+                        "start": "Y2023-Q1-P01-W02-D1",
+                        "end": "Y2023-Q4-P12-W46-D2"
+                    },
+                    "type": "SALES_PLAN"
+                }
+            },
+            "plans": [
+                "a535d1e5-ea49-4672-9e10-2e39ccc13cc1"
+            ]
+        }
+    ],
+    "included": {
+        "status": [
+            {
+                "promotion": "527bb9ec-5a78-42c2-8e9a-2f09bbf5c9a6"
+            },
+            {
+                "promotion": "1f3aa238-87d2-4467-8e32-1997b16e45b7"
+            },
+            {
+                "promotion": "573bc99b-40cd-4f1e-9429-b45413e5d573"
+            },
+            {
+                "promotion": "db216323-fd02-4c1a-ad79-bc430e85cadf"
+            },
+            {
+                "promotion": "4ed3e264-013c-4b2e-bada-6e3fbbb1bd3f"
+            },
+            {
+                "promotion": "1972d2b6-f77d-4ea6-80b3-40cbfc1bddf5"
+            },
+            {
+                "promotion": "82b85909-6abd-4fd1-87ce-8fc572cd4330"
+            },
+            {
+                "promotion": "c3958017-731e-4d82-b54b-77a0b2a21f8f"
+            },
+            {
+                "promotion": "8171ac0c-c362-4bff-a173-550ed7b34a0d"
+            },
+            {
+                "promotion": "675686b4-9a9d-4ba3-bb79-3b3c0aecde5e"
+            },
+            {
+                "promotion": "a7098ef3-1606-4abc-8caf-0b156c8b0d3d"
+            },
+            {
+                "promotion": "0ea3620b-e53f-4343-a475-049e3c56268f"
+            },
+            {
+                "promotion": "421edf08-7737-4732-8852-c0652d08f4d2"
+            },
+            {
+                "promotion": "b54ce9fe-0c4d-412c-8599-b83795962da5"
+            },
+            {
+                "promotion": "1f11370b-2fdc-4a0e-a1e5-16aa841f6969"
+            },
+            {
+                "promotion": "abaac324-b642-4a92-8d87-adccc49b1671"
+            },
+            {
+                "promotion": "1cac63eb-49fd-4628-b963-ed3cf6d97d5e"
+            },
+            {
+                "promotion": "a8a2f4f5-4046-4b48-9f0b-ebe970c83344"
+            },
+            {
+                "promotion": "8b01ff51-13b7-41df-967d-c6061c3eff93"
+            },
+            {
+                "promotion": "b9f73ceb-43f6-4a3a-82f8-5ae5fa86fcf7"
+            },
+            {
+                "promotion": "bf9a2a2c-d8f7-4414-b2c8-2faba5f91319"
+            },
+            {
+                "promotion": "3e425813-b592-439c-8df7-f24101aafb9f"
+            },
+            {
+                "promotion": "2be38fbe-b0cb-4ad3-bd7d-a6fa715514c0"
+            },
+            {
+                "promotion": "9b6b3515-752a-40d4-8bf5-607d8cc9122f"
+            },
+            {
+                "promotion": "d4c94d11-ec9b-440d-af5e-bfc7e69843ba"
+            },
+            {
+                "promotion": "cbd48b1e-be0c-4576-86fb-3c1b72d81024"
+            },
+            {
+                "promotion": "eb0e0859-0c04-4ba6-8fcd-114943ca5fd0"
+            },
+            {
+                "promotion": "534f6d3b-9be7-44f7-b4e9-0eac831cc6d4"
+            },
+            {
+                "promotion": "c0b7b447-b38c-44d4-928d-771f6965426d"
+            },
+            {
+                "promotion": "bef639bb-290e-406c-8e97-3e90c1a21670"
+            },
+            {
+                "promotion": "d238c508-93c2-427a-a696-3cb84085e5b7"
+            },
+            {
+                "promotion": "e84b343a-3614-4db5-a740-e50e4962dd8c"
+            },
+            {
+                "promotion": "48c41ad6-be44-4b7a-83a6-6c56c06366ac"
+            },
+            {
+                "promotion": "cde826b7-cff3-424a-bbe5-3803adf154aa"
+            },
+            {
+                "promotion": "d8a0a723-1019-4089-b0cf-6d6f12ebc3ec"
+            },
+            {
+                "promotion": "5a24ddbc-0d92-4ca0-849c-4320365ba808"
+            },
+            {
+                "promotion": "f40af31f-98c6-4086-875d-6579de3f9f8e"
+            },
+            {
+                "promotion": "abf31162-281a-470c-9c93-9307a1935349"
+            },
+            {
+                "promotion": "2531799a-d965-4514-ae0e-c6e44774fcb1"
+            },
+            {
+                "promotion": "9ddd06a9-b470-4f93-b802-bbdd420f4528"
+            },
+            {
+                "promotion": "2d91931b-cc8c-4b50-8551-9366bf7c94ed"
+            },
+            {
+                "promotion": "132c3ab9-8a55-4c31-a036-2ebf2f762456"
+            },
+            {
+                "promotion": "6e17ed3a-e998-4744-930f-7feb314fe1c1"
+            },
+            {
+                "promotion": "71891c40-ce2f-42de-9588-a92b50c1de34"
+            },
+            {
+                "promotion": "52defcee-e804-4434-8ef3-951a1f796bc7"
+            },
+            {
+                "promotion": "f0a192e4-962a-4119-a549-eb1328fe811a"
+            },
+            {
+                "promotion": "0253f068-48d2-4c96-ada5-0dc45583abc6"
+            },
+            {
+                "promotion": "d1b7c2fc-cba4-4610-a23e-7a8dfe645f3f"
+            },
+            {
+                "promotion": "5db41862-b9f6-4065-a027-eaac6b45be80"
+            },
+            {
+                "promotion": "e2450c7c-af7c-46bf-807b-268f57a199ea"
+            },
+            {
+                "promotion": "2f869e6c-013a-4900-ba14-8c1d9e18477b"
+            },
+            {
+                "promotion": "7e511b6c-8f9f-4e97-bc46-aa50ccf0ac42"
+            },
+            {
+                "promotion": "a6013290-8bb1-4508-a4b1-caa9bb989e55"
+            },
+            {
+                "promotion": "4005b323-5bc9-4633-9640-e60cd8ed6828"
+            },
+            {
+                "promotion": "8cd34500-525e-4b1a-949b-eed765b26c48"
+            },
+            {
+                "promotion": "199dec28-fcf3-42ac-94e6-3727209d0f38"
+            },
+            {
+                "promotion": "9a67041b-e1cf-4e90-8211-1202f8336d87"
+            },
+            {
+                "promotion": "557ee839-fa80-45a4-bf0a-f4bfb8d2ad36"
+            },
+            {
+                "promotion": "001faff6-6ea4-47ce-80cf-6fe3ed2423cb"
+            },
+            {
+                "promotion": "a5cc3bc1-9999-41cc-97a6-7b8d456d9659"
+            },
+            {
+                "promotion": "f378fd15-187b-4ac1-b31d-5cf62870ef3b"
+            },
+            {
+                "promotion": "a815e73b-028c-48cf-912a-0e7964f3b13d"
+            },
+            {
+                "promotion": "f30e4aa9-d750-430d-a6fd-4f37805c1555"
+            },
+            {
+                "promotion": "30ede3ce-9ad4-41fb-8daf-43b543566e6c"
+            },
+            {
+                "promotion": "c25badc2-4537-4ffc-98f0-3e841c60e45c"
+            },
+            {
+                "promotion": "2ee8f719-350a-4f2a-b3ba-c56daad8f3c2"
+            },
+            {
+                "promotion": "31c9df50-0d25-4dc1-bdd4-b2392d30c031"
+            },
+            {
+                "promotion": "1cefdb73-4219-4c4b-bdb0-5c7c701bdda7"
+            },
+            {
+                "promotion": "2c504d3f-43b7-4b14-8422-27fcb5a8637d"
+            },
+            {
+                "promotion": "3b705782-e8aa-41b0-8158-ec67afe423a6"
+            },
+            {
+                "promotion": "de635a01-fbb7-471c-ae77-b3d2698e3991"
+            },
+            {
+                "promotion": "e32c0ff9-42df-43eb-8864-9f1b3c057c1e"
+            },
+            {
+                "promotion": "ad1b3a09-3f44-4394-ada0-110cafe35a2e"
+            },
+            {
+                "promotion": "7685b9d6-fedd-4588-8fee-905c95c606d1"
+            },
+            {
+                "promotion": "36fc73dd-211a-45d1-b435-9eab81254399"
+            },
+            {
+                "promotion": "0fc0bac8-7b8c-40ae-8100-c82e64da8f43"
+            },
+            {
+                "promotion": "65ceaaed-a20b-4b66-aada-a25f3a4fd90a"
+            },
+            {
+                "promotion": "6137619d-62f3-4350-95f1-92832cbc85a9"
+            },
+            {
+                "promotion": "9f2d05ad-a147-43fa-a8d8-bcdbe92c630b"
+            },
+            {
+                "promotion": "19e239c4-c576-4543-a256-079c8a885cda"
+            },
+            {
+                "promotion": "16a877ae-fb43-450a-90e2-141880ddc1df"
+            },
+            {
+                "promotion": "4d2e4c6c-b09b-4599-a6ca-9519d0136e6b"
+            },
+            {
+                "promotion": "02e7fb3e-1598-4ca0-b4ff-59a43862a67d"
+            },
+            {
+                "promotion": "9d9f78ef-8e58-4741-bdd7-32ce0b569a4a"
+            },
+            {
+                "promotion": "f70b07b9-c606-4903-85bc-c9b7d71c9e33"
+            },
+            {
+                "promotion": "c016b3f7-b3c7-4f06-be3f-37bb63638cd1"
+            },
+            {
+                "promotion": "22f2a4d5-6e38-4925-8be5-c2fd0a1f8aec"
+            },
+            {
+                "promotion": "314a287e-a5b4-4b07-b4cd-0b35ea8b6b50"
+            },
+            {
+                "promotion": "971509d8-94f4-4100-8629-3fe69809111c"
+            },
+            {
+                "promotion": "6a1d12f0-a0b4-4799-b3e2-95e5d9c8017f"
+            },
+            {
+                "promotion": "aacaa3fc-5686-4bfe-84bd-291f3fe06325"
+            },
+            {
+                "promotion": "a2560614-b022-4ebd-8ffb-7a3fe7656f51"
+            },
+            {
+                "promotion": "718fee21-9e8c-486d-bd39-60d03a7f4013"
+            },
+            {
+                "promotion": "1a9f96dc-4ab4-44be-b39e-027827f8a876"
+            },
+            {
+                "promotion": "13a8f5bd-86ef-4e8b-a500-db16571d4002"
+            },
+            {
+                "promotion": "761b2c63-ba04-42ab-a676-216bf5bc15e4"
+            },
+            {
+                "promotion": "384c6666-7d36-4f5d-8fa5-baaf73b30930"
+            },
+            {
+                "promotion": "a28fb2ac-6acd-44d2-a713-dfad81fb8442"
+            },
+            {
+                "promotion": "1d0189df-cd66-49da-9fcc-73a3e8af4298"
+            },
+            {
+                "promotion": "190942dc-51ec-4f94-bfd7-5442502f31ce"
+            },
+            {
+                "promotion": "bbd22c09-5a61-3b1a-471b-0fa39ae28c7e"
+            },
+            {
+                "promotion": "720ca043-497a-4c4f-a8d8-c105e8258426"
+            },
+            {
+                "promotion": "d5330309-ab88-4b79-a969-4333a532d9c6"
+            },
+            {
+                "promotion": "96c1ffd9-628d-4169-91ce-04762ded4417"
+            },
+            {
+                "promotion": "bc049c9b-0046-4a75-9cdf-b21417d19a68"
+            },
+            {
+                "promotion": "725fce98-1c1f-430f-8a78-bc9080432dea"
+            },
+            {
+                "promotion": "76c9861c-bd0c-4f0e-84ac-2703e1d6a9ae"
+            },
+            {
+                "promotion": "4e005d78-d57b-4116-9900-59bc2fc1e210"
+            },
+            {
+                "promotion": "9763a02f-6a43-4c15-b908-83527032b817"
+            },
+            {
+                "promotion": "c800e747-5fad-4504-ad97-aa0918257b5e"
+            },
+            {
+                "promotion": "651d7915-c5b5-4177-8c77-e93dc2627320"
+            },
+            {
+                "promotion": "ed144857-0edb-4771-b246-51e736e60d1d"
+            }
+        ],
+        "primaryEvents": [
+            {
+                "promotion": "527bb9ec-5a78-42c2-8e9a-2f09bbf5c9a6"
+            },
+            {
+                "promotion": "1f3aa238-87d2-4467-8e32-1997b16e45b7"
+            },
+            {
+                "promotion": "573bc99b-40cd-4f1e-9429-b45413e5d573"
+            },
+            {
+                "promotion": "db216323-fd02-4c1a-ad79-bc430e85cadf",
+                "event": 123
+            },
+            {
+                "promotion": "4ed3e264-013c-4b2e-bada-6e3fbbb1bd3f",
+                "event": 123
+            },
+            {
+                "promotion": "1972d2b6-f77d-4ea6-80b3-40cbfc1bddf5"
+            },
+            {
+                "promotion": "82b85909-6abd-4fd1-87ce-8fc572cd4330",
+                "event": 123
+            },
+            {
+                "promotion": "c3958017-731e-4d82-b54b-77a0b2a21f8f"
+            },
+            {
+                "promotion": "8171ac0c-c362-4bff-a173-550ed7b34a0d"
+            },
+            {
+                "promotion": "675686b4-9a9d-4ba3-bb79-3b3c0aecde5e",
+                "event": 0
+            },
+            {
+                "promotion": "a7098ef3-1606-4abc-8caf-0b156c8b0d3d",
+                "event": 0
+            },
+            {
+                "promotion": "0ea3620b-e53f-4343-a475-049e3c56268f",
+                "event": 123
+            },
+            {
+                "promotion": "421edf08-7737-4732-8852-c0652d08f4d2",
+                "event": 0
+            },
+            {
+                "promotion": "b54ce9fe-0c4d-412c-8599-b83795962da5",
+                "event": 123
+            },
+            {
+                "promotion": "1f11370b-2fdc-4a0e-a1e5-16aa841f6969",
+                "event": 123
+            },
+            {
+                "promotion": "abaac324-b642-4a92-8d87-adccc49b1671",
+                "event": 0
+            },
+            {
+                "promotion": "1cac63eb-49fd-4628-b963-ed3cf6d97d5e",
+                "event": 0
+            },
+            {
+                "promotion": "a8a2f4f5-4046-4b48-9f0b-ebe970c83344",
+                "event": 123
+            },
+            {
+                "promotion": "8b01ff51-13b7-41df-967d-c6061c3eff93",
+                "event": 512
+            },
+            {
+                "promotion": "b9f73ceb-43f6-4a3a-82f8-5ae5fa86fcf7",
+                "event": 0
+            },
+            {
+                "promotion": "bf9a2a2c-d8f7-4414-b2c8-2faba5f91319"
+            },
+            {
+                "promotion": "3e425813-b592-439c-8df7-f24101aafb9f",
+                "event": 0
+            },
+            {
+                "promotion": "2be38fbe-b0cb-4ad3-bd7d-a6fa715514c0",
+                "event": 0
+            },
+            {
+                "promotion": "9b6b3515-752a-40d4-8bf5-607d8cc9122f",
+                "event": 0
+            },
+            {
+                "promotion": "d4c94d11-ec9b-440d-af5e-bfc7e69843ba",
+                "event": 123
+            },
+            {
+                "promotion": "cbd48b1e-be0c-4576-86fb-3c1b72d81024",
+                "event": 79798
+            },
+            {
+                "promotion": "eb0e0859-0c04-4ba6-8fcd-114943ca5fd0"
+            },
+            {
+                "promotion": "534f6d3b-9be7-44f7-b4e9-0eac831cc6d4",
+                "event": 79798
+            },
+            {
+                "promotion": "c0b7b447-b38c-44d4-928d-771f6965426d",
+                "event": 79798
+            },
+            {
+                "promotion": "bef639bb-290e-406c-8e97-3e90c1a21670",
+                "event": 123
+            },
+            {
+                "promotion": "d238c508-93c2-427a-a696-3cb84085e5b7",
+                "event": 79798
+            },
+            {
+                "promotion": "e84b343a-3614-4db5-a740-e50e4962dd8c",
+                "event": 123
+            },
+            {
+                "promotion": "48c41ad6-be44-4b7a-83a6-6c56c06366ac",
+                "event": 1234
+            },
+            {
+                "promotion": "cde826b7-cff3-424a-bbe5-3803adf154aa"
+            },
+            {
+                "promotion": "d8a0a723-1019-4089-b0cf-6d6f12ebc3ec",
+                "event": 123
+            },
+            {
+                "promotion": "5a24ddbc-0d92-4ca0-849c-4320365ba808",
+                "event": 123
+            },
+            {
+                "promotion": "f40af31f-98c6-4086-875d-6579de3f9f8e",
+                "event": 123
+            },
+            {
+                "promotion": "abf31162-281a-470c-9c93-9307a1935349",
+                "event": 123
+            },
+            {
+                "promotion": "2531799a-d965-4514-ae0e-c6e44774fcb1"
+            },
+            {
+                "promotion": "9ddd06a9-b470-4f93-b802-bbdd420f4528",
+                "event": 123
+            },
+            {
+                "promotion": "2d91931b-cc8c-4b50-8551-9366bf7c94ed",
+                "event": 0
+            },
+            {
+                "promotion": "132c3ab9-8a55-4c31-a036-2ebf2f762456"
+            },
+            {
+                "promotion": "6e17ed3a-e998-4744-930f-7feb314fe1c1",
+                "event": 0
+            },
+            {
+                "promotion": "71891c40-ce2f-42de-9588-a92b50c1de34",
+                "event": 0
+            },
+            {
+                "promotion": "52defcee-e804-4434-8ef3-951a1f796bc7",
+                "event": 0
+            },
+            {
+                "promotion": "f0a192e4-962a-4119-a549-eb1328fe811a",
+                "event": 0
+            },
+            {
+                "promotion": "0253f068-48d2-4c96-ada5-0dc45583abc6",
+                "event": 0
+            },
+            {
+                "promotion": "d1b7c2fc-cba4-4610-a23e-7a8dfe645f3f"
+            },
+            {
+                "promotion": "5db41862-b9f6-4065-a027-eaac6b45be80",
+                "event": 0
+            },
+            {
+                "promotion": "e2450c7c-af7c-46bf-807b-268f57a199ea"
+            },
+            {
+                "promotion": "2f869e6c-013a-4900-ba14-8c1d9e18477b",
+                "event": 0
+            },
+            {
+                "promotion": "7e511b6c-8f9f-4e97-bc46-aa50ccf0ac42"
+            },
+            {
+                "promotion": "a6013290-8bb1-4508-a4b1-caa9bb989e55"
+            },
+            {
+                "promotion": "4005b323-5bc9-4633-9640-e60cd8ed6828",
+                "event": 0
+            },
+            {
+                "promotion": "8cd34500-525e-4b1a-949b-eed765b26c48"
+            },
+            {
+                "promotion": "199dec28-fcf3-42ac-94e6-3727209d0f38",
+                "event": 0
+            },
+            {
+                "promotion": "9a67041b-e1cf-4e90-8211-1202f8336d87",
+                "event": 0
+            },
+            {
+                "promotion": "557ee839-fa80-45a4-bf0a-f4bfb8d2ad36",
+                "event": 123
+            },
+            {
+                "promotion": "001faff6-6ea4-47ce-80cf-6fe3ed2423cb"
+            },
+            {
+                "promotion": "a5cc3bc1-9999-41cc-97a6-7b8d456d9659",
+                "event": 0
+            },
+            {
+                "promotion": "f378fd15-187b-4ac1-b31d-5cf62870ef3b",
+                "event": 0
+            },
+            {
+                "promotion": "a815e73b-028c-48cf-912a-0e7964f3b13d"
+            },
+            {
+                "promotion": "f30e4aa9-d750-430d-a6fd-4f37805c1555",
+                "event": 0
+            },
+            {
+                "promotion": "30ede3ce-9ad4-41fb-8daf-43b543566e6c",
+                "event": 0
+            },
+            {
+                "promotion": "c25badc2-4537-4ffc-98f0-3e841c60e45c",
+                "event": 100
+            },
+            {
+                "promotion": "2ee8f719-350a-4f2a-b3ba-c56daad8f3c2"
+            },
+            {
+                "promotion": "31c9df50-0d25-4dc1-bdd4-b2392d30c031"
+            },
+            {
+                "promotion": "1cefdb73-4219-4c4b-bdb0-5c7c701bdda7"
+            },
+            {
+                "promotion": "2c504d3f-43b7-4b14-8422-27fcb5a8637d",
+                "event": 123
+            },
+            {
+                "promotion": "3b705782-e8aa-41b0-8158-ec67afe423a6"
+            },
+            {
+                "promotion": "de635a01-fbb7-471c-ae77-b3d2698e3991",
+                "event": 123
+            },
+            {
+                "promotion": "e32c0ff9-42df-43eb-8864-9f1b3c057c1e"
+            },
+            {
+                "promotion": "ad1b3a09-3f44-4394-ada0-110cafe35a2e"
+            },
+            {
+                "promotion": "7685b9d6-fedd-4588-8fee-905c95c606d1"
+            },
+            {
+                "promotion": "36fc73dd-211a-45d1-b435-9eab81254399"
+            },
+            {
+                "promotion": "0fc0bac8-7b8c-40ae-8100-c82e64da8f43"
+            },
+            {
+                "promotion": "65ceaaed-a20b-4b66-aada-a25f3a4fd90a"
+            },
+            {
+                "promotion": "6137619d-62f3-4350-95f1-92832cbc85a9"
+            },
+            {
+                "promotion": "9f2d05ad-a147-43fa-a8d8-bcdbe92c630b"
+            },
+            {
+                "promotion": "19e239c4-c576-4543-a256-079c8a885cda"
+            },
+            {
+                "promotion": "16a877ae-fb43-450a-90e2-141880ddc1df"
+            },
+            {
+                "promotion": "4d2e4c6c-b09b-4599-a6ca-9519d0136e6b"
+            },
+            {
+                "promotion": "02e7fb3e-1598-4ca0-b4ff-59a43862a67d"
+            },
+            {
+                "promotion": "9d9f78ef-8e58-4741-bdd7-32ce0b569a4a"
+            },
+            {
+                "promotion": "f70b07b9-c606-4903-85bc-c9b7d71c9e33"
+            },
+            {
+                "promotion": "c016b3f7-b3c7-4f06-be3f-37bb63638cd1"
+            },
+            {
+                "promotion": "22f2a4d5-6e38-4925-8be5-c2fd0a1f8aec"
+            },
+            {
+                "promotion": "314a287e-a5b4-4b07-b4cd-0b35ea8b6b50"
+            },
+            {
+                "promotion": "971509d8-94f4-4100-8629-3fe69809111c",
+                "event": 0
+            },
+            {
+                "promotion": "6a1d12f0-a0b4-4799-b3e2-95e5d9c8017f",
+                "event": 0
+            },
+            {
+                "promotion": "aacaa3fc-5686-4bfe-84bd-291f3fe06325"
+            },
+            {
+                "promotion": "a2560614-b022-4ebd-8ffb-7a3fe7656f51"
+            },
+            {
+                "promotion": "718fee21-9e8c-486d-bd39-60d03a7f4013"
+            },
+            {
+                "promotion": "1a9f96dc-4ab4-44be-b39e-027827f8a876"
+            },
+            {
+                "promotion": "13a8f5bd-86ef-4e8b-a500-db16571d4002"
+            },
+            {
+                "promotion": "761b2c63-ba04-42ab-a676-216bf5bc15e4"
+            },
+            {
+                "promotion": "384c6666-7d36-4f5d-8fa5-baaf73b30930"
+            },
+            {
+                "promotion": "a28fb2ac-6acd-44d2-a713-dfad81fb8442",
+                "event": 0
+            },
+            {
+                "promotion": "1d0189df-cd66-49da-9fcc-73a3e8af4298"
+            },
+            {
+                "promotion": "190942dc-51ec-4f94-bfd7-5442502f31ce",
+                "event": 0
+            },
+            {
+                "promotion": "bbd22c09-5a61-3b1a-471b-0fa39ae28c7e",
+                "event": 0
+            },
+            {
+                "promotion": "720ca043-497a-4c4f-a8d8-c105e8258426",
+                "event": 0
+            },
+            {
+                "promotion": "d5330309-ab88-4b79-a969-4333a532d9c6"
+            },
+            {
+                "promotion": "96c1ffd9-628d-4169-91ce-04762ded4417",
+                "event": 0
+            },
+            {
+                "promotion": "bc049c9b-0046-4a75-9cdf-b21417d19a68"
+            },
+            {
+                "promotion": "725fce98-1c1f-430f-8a78-bc9080432dea",
+                "event": 0
+            },
+            {
+                "promotion": "76c9861c-bd0c-4f0e-84ac-2703e1d6a9ae"
+            },
+            {
+                "promotion": "4e005d78-d57b-4116-9900-59bc2fc1e210"
+            },
+            {
+                "promotion": "9763a02f-6a43-4c15-b908-83527032b817"
+            },
+            {
+                "promotion": "c800e747-5fad-4504-ad97-aa0918257b5e"
+            },
+            {
+                "promotion": "651d7915-c5b5-4177-8c77-e93dc2627320"
+            },
+            {
+                "promotion": "ed144857-0edb-4771-b246-51e736e60d1d"
+            }
+        ],
+        "schedules": [
+            {
+                "promotion": "527bb9ec-5a78-42c2-8e9a-2f09bbf5c9a6",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011,011,011,011"
+            },
+            {
+                "promotion": "1f3aa238-87d2-4467-8e32-1997b16e45b7",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "573bc99b-40cd-4f1e-9429-b45413e5d573",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011,011"
+            },
+            {
+                "promotion": "db216323-fd02-4c1a-ad79-bc430e85cadf",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "4ed3e264-013c-4b2e-bada-6e3fbbb1bd3f",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "1972d2b6-f77d-4ea6-80b3-40cbfc1bddf5",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "82b85909-6abd-4fd1-87ce-8fc572cd4330",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "c3958017-731e-4d82-b54b-77a0b2a21f8f",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "8171ac0c-c362-4bff-a173-550ed7b34a0d",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011,011"
+            },
+            {
+                "promotion": "675686b4-9a9d-4ba3-bb79-3b3c0aecde5e",
+                "start": "2022-02-01",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "a7098ef3-1606-4abc-8caf-0b156c8b0d3d",
+                "start": "2023-03-08",
+                "end": "2023-03-29",
+                "division": "022"
+            },
+            {
+                "promotion": "0ea3620b-e53f-4343-a475-049e3c56268f",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "421edf08-7737-4732-8852-c0652d08f4d2",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "b54ce9fe-0c4d-412c-8599-b83795962da5",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "1f11370b-2fdc-4a0e-a1e5-16aa841f6969",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "abaac324-b642-4a92-8d87-adccc49b1671",
+                "start": "2023-02-28",
+                "end": "2023-04-05",
+                "division": "022"
+            },
+            {
+                "promotion": "1cac63eb-49fd-4628-b963-ed3cf6d97d5e",
+                "start": "2023-02-28",
+                "end": "2023-04-05",
+                "division": "022"
+            },
+            {
+                "promotion": "a8a2f4f5-4046-4b48-9f0b-ebe970c83344",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "8b01ff51-13b7-41df-967d-c6061c3eff93",
+                "start": "2023-05-21",
+                "end": "2023-05-21",
+                "division": "14"
+            },
+            {
+                "promotion": "b9f73ceb-43f6-4a3a-82f8-5ae5fa86fcf7",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": "022"
+            },
+            {
+                "promotion": "bf9a2a2c-d8f7-4414-b2c8-2faba5f91319",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": "022"
+            },
+            {
+                "promotion": "3e425813-b592-439c-8df7-f24101aafb9f",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": "022"
+            },
+            {
+                "promotion": "2be38fbe-b0cb-4ad3-bd7d-a6fa715514c0",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": "022"
+            },
+            {
+                "promotion": "9b6b3515-752a-40d4-8bf5-607d8cc9122f",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": "022"
+            },
+            {
+                "promotion": "d4c94d11-ec9b-440d-af5e-bfc7e69843ba",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "cbd48b1e-be0c-4576-86fb-3c1b72d81024",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "0123"
+            },
+            {
+                "promotion": "eb0e0859-0c04-4ba6-8fcd-114943ca5fd0",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "0123,0123,0123"
+            },
+            {
+                "promotion": "534f6d3b-9be7-44f7-b4e9-0eac831cc6d4",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "0123,0123"
+            },
+            {
+                "promotion": "c0b7b447-b38c-44d4-928d-771f6965426d",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "0123"
+            },
+            {
+                "promotion": "bef639bb-290e-406c-8e97-3e90c1a21670",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "d238c508-93c2-427a-a696-3cb84085e5b7",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "0123"
+            },
+            {
+                "promotion": "e84b343a-3614-4db5-a740-e50e4962dd8c",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "48c41ad6-be44-4b7a-83a6-6c56c06366ac",
+                "start": "2024-01-04",
+                "end": "2024-01-11",
+                "division": "p123,011"
+            },
+            {
+                "promotion": "cde826b7-cff3-424a-bbe5-3803adf154aa",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "d8a0a723-1019-4089-b0cf-6d6f12ebc3ec",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "5a24ddbc-0d92-4ca0-849c-4320365ba808",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "f40af31f-98c6-4086-875d-6579de3f9f8e",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "abf31162-281a-470c-9c93-9307a1935349",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "2531799a-d965-4514-ae0e-c6e44774fcb1",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "9ddd06a9-b470-4f93-b802-bbdd420f4528",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "2d91931b-cc8c-4b50-8551-9366bf7c94ed",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": "022"
+            },
+            {
+                "promotion": "132c3ab9-8a55-4c31-a036-2ebf2f762456",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "6e17ed3a-e998-4744-930f-7feb314fe1c1",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "71891c40-ce2f-42de-9588-a92b50c1de34",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "52defcee-e804-4434-8ef3-951a1f796bc7",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "f0a192e4-962a-4119-a549-eb1328fe811a",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "0253f068-48d2-4c96-ada5-0dc45583abc6",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "d1b7c2fc-cba4-4610-a23e-7a8dfe645f3f",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "5db41862-b9f6-4065-a027-eaac6b45be80",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "e2450c7c-af7c-46bf-807b-268f57a199ea",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "2f869e6c-013a-4900-ba14-8c1d9e18477b",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "7e511b6c-8f9f-4e97-bc46-aa50ccf0ac42",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "a6013290-8bb1-4508-a4b1-caa9bb989e55",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014,014,014"
+            },
+            {
+                "promotion": "4005b323-5bc9-4633-9640-e60cd8ed6828",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "8cd34500-525e-4b1a-949b-eed765b26c48",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014,014,014"
+            },
+            {
+                "promotion": "199dec28-fcf3-42ac-94e6-3727209d0f38",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "011,022"
+            },
+            {
+                "promotion": "9a67041b-e1cf-4e90-8211-1202f8336d87",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "557ee839-fa80-45a4-bf0a-f4bfb8d2ad36",
+                "start": "2024-01-15",
+                "end": "2024-01-16",
+                "division": "012,011,012"
+            },
+            {
+                "promotion": "001faff6-6ea4-47ce-80cf-6fe3ed2423cb",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "014,022"
+            },
+            {
+                "promotion": "a5cc3bc1-9999-41cc-97a6-7b8d456d9659",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "f378fd15-187b-4ac1-b31d-5cf62870ef3b",
+                "start": "2023-02-07",
+                "end": "2023-12-13",
+                "division": "022"
+            },
+            {
+                "promotion": "a815e73b-028c-48cf-912a-0e7964f3b13d",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "f30e4aa9-d750-430d-a6fd-4f37805c1555",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "015"
+            },
+            {
+                "promotion": "30ede3ce-9ad4-41fb-8daf-43b543566e6c",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "c25badc2-4537-4ffc-98f0-3e841c60e45c",
+                "start": "2023-02-21",
+                "end": "2024-01-22",
+                "division": "017"
+            },
+            {
+                "promotion": "2ee8f719-350a-4f2a-b3ba-c56daad8f3c2",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "31c9df50-0d25-4dc1-bdd4-b2392d30c031",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "1cefdb73-4219-4c4b-bdb0-5c7c701bdda7",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "2c504d3f-43b7-4b14-8422-27fcb5a8637d",
+                "start": "2023-04-26",
+                "end": "2023-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "3b705782-e8aa-41b0-8158-ec67afe423a6",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "de635a01-fbb7-471c-ae77-b3d2698e3991",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "e32c0ff9-42df-43eb-8864-9f1b3c057c1e",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "ad1b3a09-3f44-4394-ada0-110cafe35a2e",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "7685b9d6-fedd-4588-8fee-905c95c606d1",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "36fc73dd-211a-45d1-b435-9eab81254399",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "0fc0bac8-7b8c-40ae-8100-c82e64da8f43",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "65ceaaed-a20b-4b66-aada-a25f3a4fd90a",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "6137619d-62f3-4350-95f1-92832cbc85a9",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "9f2d05ad-a147-43fa-a8d8-bcdbe92c630b",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "19e239c4-c576-4543-a256-079c8a885cda",
+                "start": "2023-02-28",
+                "end": "2023-04-05",
+                "division": "022"
+            },
+            {
+                "promotion": "16a877ae-fb43-450a-90e2-141880ddc1df",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": "011"
+            },
+            {
+                "promotion": "4d2e4c6c-b09b-4599-a6ca-9519d0136e6b",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "02e7fb3e-1598-4ca0-b4ff-59a43862a67d",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "9d9f78ef-8e58-4741-bdd7-32ce0b569a4a",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "f70b07b9-c606-4903-85bc-c9b7d71c9e33",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "c016b3f7-b3c7-4f06-be3f-37bb63638cd1",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "22f2a4d5-6e38-4925-8be5-c2fd0a1f8aec",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "314a287e-a5b4-4b07-b4cd-0b35ea8b6b50",
+                "start": "2022-04-26",
+                "end": "2022-05-02",
+                "division": "014"
+            },
+            {
+                "promotion": "971509d8-94f4-4100-8629-3fe69809111c",
+                "start": "2023-02-28",
+                "end": "2023-04-05",
+                "division": "022"
+            },
+            {
+                "promotion": "6a1d12f0-a0b4-4799-b3e2-95e5d9c8017f",
+                "start": "2023-02-28",
+                "end": "2023-04-05",
+                "division": "022"
+            },
+            {
+                "promotion": "aacaa3fc-5686-4bfe-84bd-291f3fe06325",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "a2560614-b022-4ebd-8ffb-7a3fe7656f51",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "718fee21-9e8c-486d-bd39-60d03a7f4013",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "1a9f96dc-4ab4-44be-b39e-027827f8a876",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "13a8f5bd-86ef-4e8b-a500-db16571d4002",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "761b2c63-ba04-42ab-a676-216bf5bc15e4",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "384c6666-7d36-4f5d-8fa5-baaf73b30930",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "a28fb2ac-6acd-44d2-a713-dfad81fb8442",
+                "start": "2023-02-01",
+                "end": "2023-02-07",
+                "division": "011"
+            },
+            {
+                "promotion": "1d0189df-cd66-49da-9fcc-73a3e8af4298",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "190942dc-51ec-4f94-bfd7-5442502f31ce",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "bbd22c09-5a61-3b1a-471b-0fa39ae28c7e",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "720ca043-497a-4c4f-a8d8-c105e8258426",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "d5330309-ab88-4b79-a969-4333a532d9c6",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "96c1ffd9-628d-4169-91ce-04762ded4417",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "bc049c9b-0046-4a75-9cdf-b21417d19a68",
+                "start": "2022-04-27",
+                "end": "2022-05-03",
+                "division": "014"
+            },
+            {
+                "promotion": "725fce98-1c1f-430f-8a78-bc9080432dea",
+                "start": "2023-02-08",
+                "end": "2023-12-14",
+                "division": "022"
+            },
+            {
+                "promotion": "76c9861c-bd0c-4f0e-84ac-2703e1d6a9ae",
+                "start": "2023-03-07",
+                "end": "2023-03-28",
+                "division": ""
+            },
+            {
+                "promotion": "4e005d78-d57b-4116-9900-59bc2fc1e210",
+                "start": "2024-01-02",
+                "end": "2024-01-13",
+                "division": ""
+            },
+            {
+                "promotion": "9763a02f-6a43-4c15-b908-83527032b817",
+                "start": "2022-04-27",
+                "end": "2022-05-03"
+            },
+            {
+                "promotion": "c800e747-5fad-4504-ad97-aa0918257b5e",
+                "start": "2022-04-27",
+                "end": "2022-05-03"
+            },
+            {
+                "promotion": "651d7915-c5b5-4177-8c77-e93dc2627320",
+                "start": "2022-04-26",
+                "end": "2022-05-02"
+            },
+            {
+                "promotion": "ed144857-0edb-4771-b246-51e736e60d1d",
+                "start": "2022-04-27",
+                "end": "2022-05-03"
+            }
+        ],
+        "plans": [
+            {
+                "id": "7eeda774-2c45-4e7f-87bf-678d3212f28d",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "973d79a6-3de3-4066-a160-008b0f1576f5",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "b9556df6-abbd-4254-a230-728790a0eaa1",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "51fae7e9-5bdf-43ab-9ea2-90dd2de88053",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "e1cac774-6f44-42d9-bbc9-d96be1fe5914",
+                "products": [],
+                "locations": [],
+                "promo": {
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "c0954a65-91cf-4c0a-9ebb-dd57fea77e2f",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 7.5
+                }
+            },
+            {
+                "id": "2ca7eeb0-a8ac-4cbb-ae8e-30ac9c201ce0",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 7.9
+                }
+            },
+            {
+                "id": "5dec0e8d-61a8-46fb-834a-842ce1da9fa9",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 7.9
+                }
+            },
+            {
+                "id": "8ae4a2a1-5103-40ca-87f7-efbd4a80301b",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "f79ea7fc-1012-4264-81df-351bd4ebc1e1",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "00031398187950",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "87ab39ae-b5b3-422d-849c-199e15b6635f",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST"
+                }
+            },
+            {
+                "id": "f7100591-caa8-4be7-8a9e-8337d4be0f8f",
+                "event": 123,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 5,
+                    "amount": 11.0
+                }
+            },
+            {
+                "id": "b2ef3583-f567-44fa-80b9-308603e9cc95",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 4.0
+                }
+            },
+            {
+                "id": "5e9872c0-0bfa-4e28-8557-5e24af5f3a21",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "c6bcbbc1-5383-4b87-a99f-96107f1e8e24",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "b1e24658-9661-41e7-81ac-0b35f57dd07b",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "f75c5611-8660-455c-b03c-f78643729e4b",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 2,
+                    "amount": 8.99
+                }
+            },
+            {
+                "id": "9a98856c-8104-48a4-af57-34d373940c4a",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "a9cacc27-f275-4192-a4e7-3f9bb8d6883a",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "098",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "ceac95a6-f1ab-40fd-9e8c-282248eb0f7d",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "32aaa8d1-36b0-4f9e-9260-3f214cd85c60",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "61932606-6aac-4533-a7b5-d1af8ca43348",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "65c22825-5e84-4c2a-87e5-ca260be9022b",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "5329027f-4aff-483e-a81c-cc21b3f21591",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "b7c040f3-0796-4448-bd19-f3b2665b0020",
+                "event": 512,
+                "products": [
+                    {
+                        "id": "89",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "14",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 3,
+                    "amount": 1.99
+                }
+            },
+            {
+                "id": "f6198f35-0b9c-4981-a965-2e579890e3a0",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "b57caa66-0c50-45bc-9546-d746a532dd2e",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 9.9
+                }
+            },
+            {
+                "id": "7443b253-ce85-4202-baf8-545d9ada2126",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "ad0ac2b4-e76a-4f9e-801a-e66eec5bdf9e",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "0f98049f-f0a4-47ea-821f-636ee793e94c",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "402f9985-df03-4a2a-a42f-e9b19fdb4077",
+                "event": 123,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "2da6afbd-7411-4db9-9dac-3c5d92a83ead",
+                "event": 79798,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 9,
+                    "amount": 3.0
+                }
+            },
+            {
+                "id": "5245eef9-8602-4fc0-a23b-903641b2f072",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 4.0
+                }
+            },
+            {
+                "id": "e3c0b6c0-67ce-4d65-88f8-a0744dfa8962",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 4.0
+                }
+            },
+            {
+                "id": "548b436f-2816-4db8-930c-55f297f048c9",
+                "event": 79798,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 9,
+                    "amount": 3.0
+                }
+            },
+            {
+                "id": "2a46523a-5e2c-42c2-b559-3a9e266fc9f1",
+                "event": 79798,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 9,
+                    "amount": 3.0
+                }
+            },
+            {
+                "id": "b87cb8ea-4eb2-48e7-b657-15fdb13cafa4",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "amount": 4.0
+                }
+            },
+            {
+                "id": "321d3fb6-12a6-4415-bfef-615d82c5d900",
+                "event": 79798,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 9,
+                    "amount": 4.0
+                }
+            },
+            {
+                "id": "1f755fb6-0803-47f9-9d9d-639387fc82c8",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "15b33bf8-991f-4c56-88ce-7b56965e3281",
+                "event": 79798,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "0123",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 9,
+                    "amount": 5.0
+                }
+            },
+            {
+                "id": "9a88ecca-8c20-401f-8a5b-536f40bbc170",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "de1eb975-60d1-4e35-8f3f-7f9772de2b34",
+                "event": 1234,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "p123",
+                        "type": "Store"
+                    },
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 6,
+                    "amount": 10.0
+                }
+            },
+            {
+                "id": "c85497a1-d2e6-4857-88ab-a7e0e3040417",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST"
+                }
+            },
+            {
+                "id": "1a6f9003-4100-4322-8611-3f587941c29f",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "8ca3ed22-08c7-470f-950c-588e528e236f",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "a24f8ca3-21bf-406f-8b6d-927120e28db2",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "b39052a5-4bc7-40c1-a63c-fe01404c915f",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "b9505da1-a539-4edf-a4a3-bdd8a19b092e",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "e938c1c6-7839-4b90-9213-1c749fa191d6",
+                "event": 123,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.0
+                }
+            },
+            {
+                "id": "30a8dfaa-bb01-426f-89e9-8271f832a03f",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "3d2743e3-0611-4be1-bf0e-4330b5f27782",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "5a2eae80-86d1-4825-8d43-dd827568c2ef",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "a8dbd1ff-44a5-4d13-8e06-1ca641728711",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "607c5789-d6a6-4b50-925c-a9fc8c8c5c2d",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "a535d1e5-ea49-4672-9e10-2e39ccc13cc1",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 10,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "ad9b68d6-6291-4c1e-9939-2592b3922051",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "1912168d-6183-4933-921e-74e175c638e8",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "63dfcc56-30db-4f40-907d-a4cdfb1adf41",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "bf73dd9a-da94-44bb-a903-ce0993698882",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "f7dbb376-aa4c-4a40-80ce-61dde286b6d3",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "adc727c3-46ce-4c48-aa0c-3ad84fdaef03",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "5b3a6ebb-cc56-4fc2-9ca1-e2a0c9095fe3",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "6aca0d3d-afbe-4b92-a871-3408b8c2e0c9",
+                "products": [
+                    {
+                        "id": "089"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "96bd908a-dd6b-45f7-8456-a73aac98a0a2",
+                "products": [
+                    {
+                        "id": "089"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "53b0e547-5444-467c-b086-2a41aa1e6996",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "d9780bfa-6574-46f5-9c95-060ced34262c",
+                "products": [
+                    {
+                        "id": "078",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "137a6f98-e2e4-4f89-bf70-403f70e2e628",
+                "products": [
+                    {
+                        "id": "078",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "1022aa3f-2e55-4853-bdf1-1d400260c348",
+                "products": [
+                    {
+                        "id": "078",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "cf8ea2f1-7ea7-44c4-940f-a04a4d847a55",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "97689cc0-975c-455c-8bda-1943da710aab",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "fe95b184-1391-482b-a2fb-de1febce0bf0",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "09e4440e-e1f1-4648-9133-edc8342c3afb",
+                "event": 123,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "012",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "a04ee007-0ecb-43cd-bcf5-80297a6243b6",
+                "event": 123,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "d5c2f68a-8734-46cb-9f97-51613a1f92f4",
+                "event": 123,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "012",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "3e8a8e3c-7df3-476a-8f19-6a4b698b324e",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "2abb29f6-c4ad-47cb-8117-a48ede715b33",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "f66b9aba-777c-4740-afca-c592cdf48c8e",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "bfdc062e-b41d-4a27-b764-d5fb7057a278",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "aa921346-4ade-4d7c-ab9f-ee76dbb65d27",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "b2ee56df-fd12-4f13-8691-a68f8562519f",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "015",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "fb6920e4-f28a-4c08-9979-cde05764e91c",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "30a57540-8b2e-4511-9fd9-b6c5e024e647",
+                "event": 100,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "017",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 10,
+                    "amount": 2.0
+                }
+            },
+            {
+                "id": "fc531d01-ec9a-4430-bce6-f2be31ad1635",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "6276e677-2b07-4f70-b901-e5640c286a48",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "1990ded2-f9d8-497c-9b62-eea85dfbc35e",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "64a0e533-15f3-4f37-a86a-1ea3808f95c8",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 10,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "c6f48e6a-82d9-4b9c-bae6-b53ca06753c4",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "1e6197bf-69d5-4dc0-9896-3589a3d27699",
+                "event": 123,
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 6.0
+                }
+            },
+            {
+                "id": "72c723bc-426a-4a4d-a6f3-c79cd25311df",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "17a2c487-873b-4488-89d8-283024e9c37a",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "ad778004-718c-4866-bb89-45526211f76e",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "a1c16bb0-d60a-44c4-b23f-a6be7e7743ea",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "dad24f31-6144-4789-93e2-6d594599edb9",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "f9a976d2-f61c-43d3-be3c-577bd1b8b21f",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "2a8b890a-4cac-4fc3-957e-e0941c1447d3",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "339a02cd-52c5-4de2-a0d6-dc5ebb559e82",
+                "products": [
+                    {
+                        "id": "011",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "8e843257-8fac-4278-bdb1-aa4b2b918fdc",
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "quantity": 6,
+                    "amount": 6.99
+                }
+            },
+            {
+                "id": "3f63545d-d6e3-450b-81b1-5cb4750fdc53",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "amount": 10.0
+                }
+            },
+            {
+                "id": "d44a76c9-7f97-470c-8199-e0fec448fcdd",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "cf3d7640-6a07-4b25-bdef-f48218266f41",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "2299786e-f3ae-4297-a8aa-b7c43dd05c90",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "64dd5e9b-1b59-4778-942d-31c64c647abe",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "08c328ef-0740-41b8-80c1-01e475d80f5a",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "89c97a88-7ff5-4645-be11-6f7f2b449019",
+                "products": [
+                    {
+                        "id": "014",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 7,
+                    "amount": 9.0
+                }
+            },
+            {
+                "id": "badf7cb5-18d9-4557-9bee-60d17194f538",
+                "products": [
+                    {
+                        "id": "098"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "72dd7c4f-ba8c-4799-8ef4-4ff1a03e3fee",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.29
+                }
+            },
+            {
+                "id": "4997cb6b-215f-48fb-8573-cef988e61138",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "84002a45-3a93-400e-9196-b96d3e15c1c5",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "1e1c956b-b69f-4a2a-b764-ef1e2998bae1",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "f8ffc3ef-2549-4094-956a-a552996e4992",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "4d5f7838-dbea-429b-9322-6956054946d9",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "111d42ec-b7d0-43b1-8a5b-cee65e99b804",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "964c9f49-b081-4a9c-9b13-e1feb33f5f6b",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "87a58a46-20ca-4918-a54a-3800b68a5358",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "61347187-0cc0-4d28-8a07-4d0dfcb658b7",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "011",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "011",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "de388d67-d3c7-41a1-aa02-f5784368dd3d",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "9e828e0f-a9d5-4bfa-bb29-9a46fe2501a4",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "123"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "314210a3-6494-471b-8304-05fd040ed3ff",
+                "event": 0,
+                "products": [],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "052857d4-89fa-48f4-ab52-2164090c5b3a",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "098",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "1a4440e6-802d-4745-84a4-5ba070858338",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "63f33a67-3010-4914-8784-fa72d4e85733",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "1234",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {}
+            },
+            {
+                "id": "17605f2f-8f52-43a1-b2fa-ffe28d20ec18",
+                "products": [
+                    {
+                        "id": "123",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "014",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 1,
+                    "amount": 1.0
+                }
+            },
+            {
+                "id": "dfff091f-b0ec-4c9b-a7fc-0959944d5df2",
+                "event": 0,
+                "products": [
+                    {
+                        "id": "089"
+                    }
+                ],
+                "locations": [
+                    {
+                        "id": "022",
+                        "type": "Store"
+                    }
+                ],
+                "promo": {
+                    "type": "NET_COST",
+                    "quantity": 4,
+                    "amount": 5.99
+                }
+            },
+            {
+                "id": "58ba4a7f-08a7-44ad-8914-68d21d6da3dc",
+                "products": [
+                    {
+                        "id": "089",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [],
+                "promo": {}
+            },
+            {
+                "id": "cd23e806-4dbf-49cd-83d3-8c5b823c091a",
+                "products": [
+                    {
+                        "id": "011",
+                        "type": "GTIN"
+                    }
+                ],
+                "locations": [],
+                "promo": {}
+            }
+        ]
+    },
+    "meta": {}
+}
