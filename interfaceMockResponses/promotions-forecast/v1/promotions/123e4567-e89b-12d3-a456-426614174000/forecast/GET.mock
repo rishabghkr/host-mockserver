@@ -1,0 +1,231 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+   "data":{
+      "promoAddWeeks":[
+         {
+            "id":1001,
+            "name":"2023 P3 W1",
+            "isChecked":true,
+            "promoSale":"182000",
+            "gmPercentage":27.1,
+            "gmValue":49000,
+            "units":137000
+         },
+         {
+            "id":1002,
+            "name":"2023 P3 W2",
+            "isChecked":true,
+            "promoSale":"182000",
+            "gmPercentage":27.1,
+            "gmValue":49000,
+            "units":137000
+         },
+         {
+            "id":1003,
+            "name":"2023 P3 W3",
+            "isChecked":false,
+            "promoSale":"12000",
+            "gmPercentage":27.0,
+            "gmValue":50000,
+            "units":137000
+         },
+         {
+            "id":1004,
+            "name":"2023 P3 W4",
+            "isChecked":false,
+            "promoSale":"182000",
+            "gmPercentage":27.1,
+            "gmValue":49000,
+            "units":137000
+         },
+         {
+            "id":1005,
+            "name":"2023 P4 W1",
+            "isChecked":false,
+            "promoSale":"182000",
+            "gmPercentage":97.1,
+            "gmValue":49000,
+            "units":237000
+         },
+         {
+            "id":1006,
+            "name":"2023 P4 W2",
+            "isChecked":false,
+            "promoSale":"182000",
+            "gmPercentage":27.1,
+            "gmValue":49000,
+            "units":137000
+         },
+         {
+            "id":1007,
+            "name":"2023 P5 W1",
+            "isChecked":false,
+            "promoSale":"182000",
+            "gmPercentage":27.1,
+            "gmValue":49000,
+            "units":137000
+         },
+         {
+            "id":1008,
+            "name":"2023 P5 W2",
+            "isChecked":false,
+            "promoSale":"182000",
+            "gmPercentage":27.1,
+            "gmValue":49000,
+            "units":99000
+         }
+      ],
+      "byGtins":[
+         {
+            "promoWeekSelected":1001,
+            "totalDivisions":25,
+            "totalUnitsPerItem":74124,
+            "totalUnitsPerLocation":[
+               {
+                  "divisionId":1274675,
+                  "units":137328
+               },
+               {
+                  "divisionId":1274674,
+                  "units":7860
+               }
+            ],
+            "gtinForecast":[
+               {
+                  "gtin":"00051000232847",
+                  "description":"CAMP SPAGHETTIO FRANKS",
+                  "totalUnits":18036,
+                  "divisionUnits":[
+                     {
+                        "divisionId":1274675,
+                        "likeWeekId":121
+                     },
+                     {
+                        "divisionId":1274674,
+                        "likeWeekId":122
+                     }
+                  ]
+               },
+               {
+                  "gtin":"0005100023141",
+                  "description":"CAMP SPAGHETTIO MEATBALL",
+                  "totalUnits":98328,
+                  "divisionUnits":[
+                     {
+                        "divisionId":1274675,
+                        "likeWeekId":123
+                     },
+                     {
+                        "divisionId":1274674,
+                        "likeWeekId":124
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "promoWeekSelected":1002,
+            "totalDivisions":25,
+            "totalUnitsPerItem":74124,
+            "totalUnitsPerLocation":[
+               {
+                  "divisionId":1231,
+                  "likeWeekId":123
+               },
+               {
+                  "divisionId":1222,
+                  "likeWeekId":123
+               }
+            ],
+            "gtinForecasts":[
+               {
+                  "gtin":"00051000232847",
+                  "description":"CAMP SPAGHETTIO FRANKS",
+                  "totalUnits":18036,
+                  "divisionUnits":[
+                     {
+                        "divisionId":1231,
+                        "likeWeekId":121
+                     },
+                     {
+                        "divisionId":1222,
+                        "likeWeekId":122
+                     }
+                  ]
+               },
+               {
+                  "gtin":"0005100023141",
+                  "description":"CAMP SPAGHETTIO MEATBALL",
+                  "totalUnits":98328,
+                  "divisionUnits":[
+                     {
+                        "divisionId":1231,
+                        "likeWeekId":123
+                     },
+                     {
+                        "divisionId":1222,
+                        "likeWeekId":124
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "included":{
+      "likeWeeks":[
+         {
+            "id":121,
+            "avgRetail":1.24,
+            "avgCost":1.2,
+            "units":18036,
+            "description":"2022 P4 W10"
+         },
+         {
+            "id":122,
+            "avgRetail":1.25,
+            "avgCost":1.2,
+            "units":18040,
+            "description":"2022 P4 W1"
+         },
+         {
+            "id":123,
+            "avgRetail":1.24,
+            "avgCost":1.2,
+            "units":20012,
+            "description":"2022 P4 W5"
+         },
+         {
+            "id":124,
+            "avgRetail":1.25,
+            "avgCost":1.2,
+            "units":18036,
+            "description":"2022 P4 W10"
+         }
+      ],
+      "divisions":[
+         {
+            "type":"managementDivision",
+            "code":"011",
+            "name":"011 - Atlanta Operating Division",
+            "id":1274675
+         },
+         {
+            "type":"managementDivision",
+            "code":"014",
+            "name":"014 - Cincinnati Operating Division",
+            "id":1274674
+         }
+      ]
+   },
+   "meta":{
+      "offset":0,
+      "size":0,
+      "hasMore":true
+   },
+   "error":{
+
+   }
+}
