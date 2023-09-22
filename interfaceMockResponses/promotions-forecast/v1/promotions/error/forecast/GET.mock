@@ -1,0 +1,21 @@
+HTTP/1.1 500 INTERNAL_SERVER_ERROR
+Content-Type: application/json; charset=utf-8
+
+{
+  "errors": [
+    {
+      "code": "500",
+      "reason": "The Server did not respond.",
+      "datetime": {
+        "value": "2020-03-10 15:00:00.000",
+        "timezone": "UTC"
+      },
+      "rootCauses": [
+        {
+          "code": "500",
+          "reason": "The Server did not respond."
+        }
+      ]
+    }
+  ]
+}
