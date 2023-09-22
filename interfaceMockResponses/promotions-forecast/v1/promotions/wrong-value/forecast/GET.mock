@@ -1,0 +1,21 @@
+HTTP/1.1 404 NOT_FOUND
+Content-Type: application/json; charset=utf-8
+
+{
+  "errors": [
+    {
+      "code": "400",
+      "reason": "Incorrect value 'abc' in 'xyz' field. Expected 'x' digits.",
+      "datetime": {
+        "value": "2020-03-10 15:00:00.000",
+        "timezone": "UTC"
+      },
+      "rootCauses": [
+        {
+          "code": "400",
+          "reason": "Incorrect value 'abc' in 'xqz' field. Expected 'x' digits."
+        }
+      ]
+    }
+  ]
+}
